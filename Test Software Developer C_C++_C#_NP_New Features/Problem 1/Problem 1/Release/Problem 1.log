@@ -1,0 +1,9 @@
+﻿  Problem 1.cpp
+C:\Verotthi-Teste\Test Software Developer C_C++_C#_NP_New Features\Problem 1\Problem 1\Problem 1.cpp(20,16): warning C4129: 'V': unrecognized character escape sequence
+C:\Verotthi-Teste\Test Software Developer C_C++_C#_NP_New Features\Problem 1\Problem 1\Problem 1.cpp(20,16): warning C4129: 'O': unrecognized character escape sequence
+  Generating code
+  3 of 151 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Problem 1.vcxproj -> C:\Verotthi-Teste\Test Software Developer C_C++_C#_NP_New Features\Problem 1\Release\Problem 1.exe

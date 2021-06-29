@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Test Software Developer C_C++_C#_NP_New Features\Problem 2\Problem2\obj\Debug\Problem2.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test Software Developer C_C++_C#_NP_New Features\Problem 2\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+C:\Verotthi-Teste\Test Software Developer C_C++_C#_NP_New Features\Problem 2\Problem2\bin\Debug\Problem2.exe.config
+C:\Verotthi-Teste\Test Software Developer C_C++_C#_NP_New Features\Problem 2\Problem2\bin\Debug\Problem2.exe
+C:\Verotthi-Teste\Test Software Developer C_C++_C#_NP_New Features\Problem 2\Problem2\bin\Debug\Problem2.pdb
+C:\Verotthi-Teste\Test Software Developer C_C++_C#_NP_New Features\Problem 2\Problem2\obj\Debug\Problem2.csproj.AssemblyReference.cache
+C:\Verotthi-Teste\Test Software Developer C_C++_C#_NP_New Features\Problem 2\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+C:\Verotthi-Teste\Test Software Developer C_C++_C#_NP_New Features\Problem 2\Problem2\obj\Debug\Problem2.exe
+C:\Verotthi-Teste\Test Software Developer C_C++_C#_NP_New Features\Problem 2\Problem2\obj\Debug\Problem2.pdb
